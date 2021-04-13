@@ -1,5 +1,15 @@
 # Projekodumu
-ödev
+#ödev
+#klasık taş kağıt makas oyunu. oyunda ben seçim yaptıktan sonra bilgisayar da rastgele bir seçim yapacak ve kazanan +1 skor olacak. oyunda 5 skoruna ulaşan kazanmış olacaktır.bunun için "senin_skorun" ve "bilg_skor" isimli iki adet değişken tanımladım ve bunların başlangıç değerlerini sıfır yaptım. tüm bunlardan önce ilk oarak random modülünü programa çağırıyorum.
+#algoritma:
+#başla 
+#taş,kağıt,makas, gir
+#benim ile bilgisyarın seçimi belirle
+#eger ben kazanırsam +1 ekle bana ve kazandınız yaz
+#bilgsayar kaznırsa +1 ekle ona ve kaybetınız  yaz
+#eşitse işlem devam et ve berhabere yaz
+#ilk 5 şe ulaşan kişi kaznmış 
+#bittir
 import random
 
 secenek = ["taş", "kağıt", "makas"]
